@@ -17,7 +17,7 @@ Get starUml full version
 
 - 6- an app file is going to be created in resources folder 
 - 7-   go to app\src\engine\license-manager.js
-- 8- update file with Notepad
+- 8- update file
 
   
   
