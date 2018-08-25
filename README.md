@@ -1,8 +1,8 @@
 # StarUml-3.0.2-Full-version 
 Get starUml full version
 
-**StarUML 3.0.2** 
-**Windows 10** 
+# StarUML 3.0.2
+# Windows 10
 
 
 - 1- install staruml. : [staruml](http://staruml.io/)
@@ -32,7 +32,7 @@ Get starUml full version
 ```
  
 
--   9- go back to CMD and execute 
+-9- go back to CMD and execute 
 
   `asar pack app app.asar`
   
